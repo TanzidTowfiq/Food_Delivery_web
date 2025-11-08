@@ -9,7 +9,7 @@ body {
   font-family: 'Raleway', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(#043465, #3578dc);
+  background: linear-gradient(#0496b4, #3578dc);
   color: #d9e2f1;
   min-height: 100vh;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 #main-header button {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-family: 'Lato', sans-serif;
 }
 
@@ -53,12 +53,12 @@ h1 {
 
 #meals {
   width: 90%;
-  max-width: 70rem;
+  max-width: 150rem;
   list-style: none;
   margin: 2rem auto;
   padding: 1rem;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   gap: 1rem;
 }
 
@@ -79,7 +79,7 @@ h1 {
 
 .meal-item img {
   width: 100%;
-  height: 20rem;
+  height: 30rem;
   object-fit: cover;
 }
 
@@ -97,7 +97,7 @@ h1 {
   display: inline-block;
   background-color: #312c1d;
   color: #ffc404;
-  font-size: 0.9rem;
+  font-size: 2rem;
   font-weight: bold;
   padding: 0.5rem 2rem;
   margin: 0;
@@ -109,7 +109,7 @@ h1 {
 }
 
 .cart h2 {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 .cart ul {
@@ -211,7 +211,7 @@ h1 {
   background-color: #ffc404;
   border: 1px solid #ffc404;
   color: #1f1a09;
-  padding: 0.5rem 1.5rem;
+  padding: 0.75rem 2.5rem;
   border-radius: 4px;
 }
 
