@@ -75,3 +75,4 @@ The frontend communicates with the backend via REST API.
 
 
 ---
+![Homepage Screenshot](./assets/images/Screenshot 2025-11-14 190603.png)
