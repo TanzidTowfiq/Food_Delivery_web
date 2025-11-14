@@ -73,12 +73,6 @@ The frontend communicates with the backend via REST API.
 * Node.js
 * Express
 
----
-
 
 
 ---
-
-If you want, I can also add:
-📸 Screenshots • 📚 API Documentation • 🔐 Environment Variables • 🚀 Deployment Guide
-Just tell me!
