@@ -75,4 +75,6 @@ The frontend communicates with the backend via REST API.
 
 
 ---
-![Alt text](assets/images/homepage.png)
+![Homepage](assets/images/homepage.png)
+![Cart](assets/images/cart.png)
+![Checkout Page](assets/images/checkout.png)
