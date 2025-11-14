@@ -109,12 +109,12 @@ h1 {
 }
 
 .cart h2 {
-  margin: 2rem 0;
+  margin: 5rem 0;
 }
 
 .cart ul {
   list-style: none;
-  margin: 0.5rem 0;
+  margin: 2rem 0;
   padding: 0;
 }
 
@@ -136,8 +136,8 @@ h1 {
 .cart-total {
   display: flex;
   justify-content: flex-end;
-  margin: 2rem 0;
-  font-size: 1.15rem;
+  margin: 5rem 0;
+  font-size: 2rem;
   font-weight: bold;
   color: #46443c;
 }
@@ -146,16 +146,16 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0.5rem 0;
+  margin: 2rem 0;
 }
 
 .cart-item p {
-  margin: 0;
+  margin: 1rem 0;
 }
 
 .cart-item-actions {
   display: flex;
-  gap: 1rem;
+  gap: 2rem;
   align-items: center;
 }
 
@@ -164,7 +164,7 @@ h1 {
   font-size: 1rem;
   width: 1.5rem;
   height: 1.5rem;
-  border-radius: 50%;
+  border-radius: 70%;
   border: none;
   background-color: #312c1d;
   color: #ffc404;
